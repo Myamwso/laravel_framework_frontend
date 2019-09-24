@@ -100,12 +100,6 @@ npm：`npm install`
 
 nx-admin 是完全开源免费的管理系统集成方案，由 nxmin 在工作之余由兴趣驱动完成，如果你也一样喜欢前端开发，欢迎加入我们的讨论/学习群，群内可以提问答疑，分享学习资料或者随便扯淡
 
-## 技术答疑，交流QQ群
-
-群号 493671066 这里可以帮你答疑nx-admin这个项目各种疑惑，问题，防止发广告者，入群费设置为0.9元，请谅解，欢迎大家
-
-<img src="./github/QqAndWeiXin.png" width="800px" height="420" alt="chat">
-
 ## 其他注意事项 ##
 ### 一、如果我不想用到上面的紫色颜色，那我怎么修改为自己喜欢的颜色呢？ ###
 
@@ -256,8 +250,6 @@ npm run lint
 # auto fix
 npm run lint -- --fix
 ```
-## 捐赠 觉得不错 赏个咖啡 让作者打起精神 ~
-<img src="./github/二维码.jpg" width="400px" height="460px" alt="捐赠扫一扫">
 
 ## 感谢
 这个项目借鉴了[vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template),[d2admin](https://github.com/d2-projects/d2-admin),
